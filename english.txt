@@ -1,0 +1,22 @@
+#Header;
+Title; "Corporate Solutionss";
+Motto; "ELIMINATE WEAKNESS";
+Statement; "THE INTERNET IS SHIT ANYWAY";
+Author; "FROM IMORTEK";
+Licence; "DEFINITELY BSD LICENCE";
+
+"------------------------------Corporate Solutionss-------------------------------";
+"-                              ELIMINATE WEAKNESS                               -";
+"-                          THE INTERNET IS SHIT ANYWAY                          -";
+"-                      FROM IMORTEK, DEFINITELY BSD LICENCE                     -";
+"---------------------------------------------------------------------------------";
+
+#BaseOptions;
+"Press ";
+'c'; " to continue."
+'s'; " to view website with dns servers."
+'d'; " to download DNS server list.\n"
+'p'; " for philiosophy."
+'l'; " for licence information."
+'h'; " for help."
+'q'; " to give up on life and this program."
